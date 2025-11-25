@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
     plugins: [react()],
     // IMPORTANTE: Mude '/nome-do-seu-repositorio/' para o nome exato do seu repo no GitHub
     // Exemplo: se o repo é 'niver-pai', mude para '/niver-pai/'
-    base: '/nome-do-seu-repositorio/',
+    base: '/Feliz-Aniversario-Pai/',
     define: {
       // Isso permite que o código continue usando process.env.API_KEY mesmo no navegador
       'process.env.API_KEY': JSON.stringify(env.API_KEY)
