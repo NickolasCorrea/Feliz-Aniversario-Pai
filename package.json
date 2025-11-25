@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://seu-usuario.github.io/nome-do-seu-repositorio",
+  "homepage": "https://NickolasCorrea.github.io/Feliz-Aniversario-Pai",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
